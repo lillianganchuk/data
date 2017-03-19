@@ -1,0 +1,118 @@
+Q: What is an agency problem?
+A: a conflict of goals between a firm’s managers and shareholders 
+
+Q: What are some the common methods that MNCs use to improve their internal control process?
+A: establish a centralized database of information, ensure all data is reported consistently among subsidiaries, implement a system that automatically checks data for discrepancies
+
+Q: Who may be able to prevent agency problems in an MNC?
+A: a parent corporation
+
+Q: What percentage of small businesses account for U.S exports?
+A: 20%
+
+Q: What is the main goal of an MNC?
+A: maximize shareholder wealth
+
+Q: What are the most common ways firms conduct international business?
+A: international trade, licensing, franchising, joint venture, acquisitions of foreign firms and formation of foreign subsidiaries
+
+Q: What does the valuation model of an MNC show?
+A: It shows that the MNC valuation is affected when its foreign cash flows rise or when the MNCs required rate of return decreases
+
+Q: What factors affect international trade?
+A: inflation, national income, government policies, exchange rates
+
+Q: What is a tariff?
+A: a tax on an imported good
+
+Q: Where does the most common type of foreign exchange transaction occur?
+A: spot market 
+
+Q: What is the formula to find the bid/ask spread of a transaction?
+A: bid/ask spread= ask rate-bid rate/ ask rate
+
+Q: What is a currency call option?
+A: a currency call option provides the right to buy a specific currency at a specific price within a specific period of time
+
+Q: What is a currency put option?
+A: a currency put option provides the right to sell a specific currency at a specific price within a specific period of time.
+Q: What is a Eurobond?
+A: A Eurobond is a bond that is sold in countries other than the country of the currency denominating the bond. 
+
+Q: What are international money markets composed of?
+A: international money markets are composed of several large banks that accept deposits and make short term loans in various currencies
+
+Q: What are the 5 common approaches when diversifying international stock?
+A: direct purchase of foreign stock, investment in MNC stock, American depository receipts, exchange-traded funds, international mutual funds.
+
+Q: When do banks invest in currency in the foreign market?
+A: when they expect that a certain currency is valued lower than it should be 
+
+Q: What is a forward contract?
+A: An agreement between a corporation and financial institution to exchange a specific amount of currency at a forward rate
+
+Q: What is a non-deliverable forward contract?
+A: A non-deliverable forward contract is an agreement regarding a specific amount of currency, in a specific exchange rate in a specific future date. 
+
+Q: Do corporations have open or closed positions in purchasing foreign currency in the future?
+A: open 
+
+Q: What is an exercise price?
+A: the price at which the owner of a call option is allowed to buy the currency at 
+
+Q: When are call options desired?
+A: When the buyer wants to lock in the maximum price to be paid in the future
+
+Q: In a fixed exchange rate system, do exchange rates fluctuate in a wide or narrow boundary?
+A: narrow boundary 
+
+Q: What is revaluation?
+A: Revaluation is the upward adjusted of the exchange rate by a central bank
+
+Q: What is appreciation?
+A: the increase in the value of currency that is adjusted with market conditions
+
+Q: How are exchange rate values determined in a freely floating exchange rate system?
+A: they are determined by market forces without government intervention
+
+Q: What is a sterilized intervention?
+A: When the Fed intervenes in the foreign exchange market and helps offset transactions in the Treasury security markets.
+
+Q: How can governments affect the supply, demand and equilibrium of currency values?
+A: By using direct intervention
+
+Q: Does a strong US dollar intensify foreign competition?
+A: yes, it does. 
+
+Q: Does a strong US dollar reduce or increase inflation?
+A: reduce
+
+Q: What is arbitrage?
+A: Capitalizing on a discrepancy in quoted prices by making a risk free profit
+
+Q: What three ways is arbitrage presented in the international money markets?
+A: locational arbitrage, triangular arbitrage and covered interest arbitrage
+
+Q: When can you use triangular arbitrage?
+A: When there is a discrepancy in the cross exchange rate between two currencies.
+
+Q: What is the interest rate parity?
+A: the theory states that the size of the forward premium should be equal to the interest rate difference between two currencies 
+
+Q: What is the absolute form of PPP?
+A: consumers will shift their demand to wherever prices are the lowest.
+
+Q: How can the PPP be tested in the long run?
+A: by using the real exchange rate between two currencies over time
+
+Q: What is the international fisher effect (IFE)?
+A: the IFE specifies a relationship between interest rates of two countries and their exchange rates
+
+Q: What type of currency does forecasting closely follow?
+A: currency that has exchange rates that fluctuate continuously 
+
+Q: What rates does the market-based forecast use?
+A: spot rate or the forward rate
+
+Q: What is translation exposure?
+A: the exposure of the MNC’s consolidated financial statements to exchange rate fluctuations
